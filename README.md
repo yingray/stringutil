@@ -1,1 +1,1 @@
-# stringutil
+# go - stringutil
